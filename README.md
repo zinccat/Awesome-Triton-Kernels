@@ -7,7 +7,9 @@ Collection of kernels written in Triton language (didn't seem to be a lot till n
 
 ## Transformer
 
-[Transformer-related kernels by Kernl](https://github.com/ELS-RD/kernl)
+[Kernels by Kernl](https://github.com/ELS-RD/kernl)
+
+[Kernels by Unsloth](https://github.com/unslothai/unsloth)
 
 [GPTQ by fpgaminer](https://github.com/fpgaminer/GPTQ-triton)
 
