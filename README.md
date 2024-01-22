@@ -13,6 +13,8 @@ Collection of kernels written in Triton language (didn't seem to be a lot till n
 
 [GPTQ by fpgaminer](https://github.com/fpgaminer/GPTQ-triton)
 
+[GPTQ on PyTorch blog](https://pytorch.org/blog/accelerating-triton/)
+
 [FlagAttention, memory-efficient attention kernels](https://github.com/FlagOpen/FlagAttention)
 
 ## Activations
