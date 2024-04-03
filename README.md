@@ -5,6 +5,8 @@ Collection of kernels written in Triton language (didn't seem to be a lot till n
 
 [Official Tutorials](https://triton-lang.org/main/getting-started/tutorials/index.html)
 
+[Puzzles by Sasha Rush](https://github.com/srush/Triton-Puzzles)
+
 ## Transformer
 
 [Kernels by Kernl](https://github.com/ELS-RD/kernl)
