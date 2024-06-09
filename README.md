@@ -7,6 +7,10 @@ Collection of kernels written in Triton language (didn't seem to be a lot till n
 
 [Puzzles by Sasha Rush](https://github.com/srush/Triton-Puzzles)
 
+## General Operators
+
+[FlagGems](https://github.com/FlagOpen/FlagGems)
+
 ## Transformer
 
 [Kernels by Kernl](https://github.com/ELS-RD/kernl)
