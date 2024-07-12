@@ -5,7 +5,7 @@ Collection of kernels written in Triton language (didn't seem to be a lot till n
 
 [Official Tutorials](https://triton-lang.org/main/getting-started/tutorials/index.html)
 
-[Awesome resources from cuda-mode](https://github.com/cuda-mode/resource-stream)
+[Awesome resources from cuda-mode](https://github.com/cuda-mode/resource-stream), their [guide](https://www.youtube.com/watch?v=DdTsX6DQk24&ab_channel=CUDAMODE) to Triton
 
 [Puzzles by Sasha Rush](https://github.com/srush/Triton-Puzzles)
 
