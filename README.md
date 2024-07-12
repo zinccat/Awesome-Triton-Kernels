@@ -5,6 +5,8 @@ Collection of kernels written in Triton language (didn't seem to be a lot till n
 
 [Official Tutorials](https://triton-lang.org/main/getting-started/tutorials/index.html)
 
+[Awesome resources from cuda-mode](https://github.com/cuda-mode/resource-stream)
+
 [Puzzles by Sasha Rush](https://github.com/srush/Triton-Puzzles)
 
 ## General Operators
