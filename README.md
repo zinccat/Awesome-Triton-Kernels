@@ -13,6 +13,8 @@ Collection of kernels written in Triton language (didn't seem to be a lot till n
 
 [FlagGems](https://github.com/FlagOpen/FlagGems)
 
+[Kernels by PyTorch Labs](https://github.com/pytorch-labs/applied-ai)
+
 ## Transformer
 
 [Kernels by Kernl](https://github.com/ELS-RD/kernl)
