@@ -16,6 +16,7 @@ Collection of kernels written in Triton language (didn't seem to be a lot till n
 [Kernels by PyTorch Labs](https://github.com/pytorch-labs/applied-ai)
 
 ## Transformer
+[FLASHNN for LLM Serving](https://github.com/AlibabaPAI/FLASHNN)
 
 [Kernels by Kernl](https://github.com/ELS-RD/kernl)
 
