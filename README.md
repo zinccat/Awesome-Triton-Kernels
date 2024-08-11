@@ -10,6 +10,7 @@ Collection of kernels written in Triton language (didn't seem to be a lot till n
 [Puzzles by Sasha Rush](https://github.com/srush/Triton-Puzzles)
 
 ## General Operators
+[attorch](https://github.com/BobMcDear/attorch) subset of PyTorch's nn module
 
 [FlagGems](https://github.com/FlagOpen/FlagGems)
 
