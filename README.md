@@ -37,7 +37,9 @@ Collection of kernels written in Triton language (didn't seem to be a lot till n
 [Activation functions by dogukantai](https://github.com/dogukantai/triton-activations)
 
 ## Matrix Operations
-[Block-sparse matrix multiplication](https://github.com/stanford-futuredata/stk) ([paper](https://openreview.net/forum?id=doa11nN5vG))
+[Sparse Toolkit: Block-sparse matrix multiplication](https://github.com/stanford-futuredata/stk) ([paper](https://openreview.net/forum?id=doa11nN5vG))
+
+[GemLite: Fused low-bit matrix multiplication](https://github.com/mobiusml/gemlite)
 
 ## Integrations
 [JAX-Triton](https://github.com/jax-ml/jax-triton)
