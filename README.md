@@ -18,8 +18,12 @@ Collection of kernels written in Triton language (didn't seem to be a lot till n
 
 [Kernels by PyTorch Labs](https://github.com/pytorch-labs/applied-ai)
 
+[scattermoe: Sparse Mixture-of-Experts](https://github.com/shawntan/scattermoe)
+
 ## Transformer
 [Liger Kernel: Efficient Triton Kernels for LLM Training](https://github.com/linkedin/Liger-Kernel)
+
+[Flash Linear Attention](https://github.com/sustcsonglin/flash-linear-attention)
 
 [FLASHNN for LLM Serving](https://github.com/AlibabaPAI/FLASHNN)
 
