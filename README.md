@@ -45,6 +45,9 @@ Collection of kernels written in Triton language (didn't seem to be a lot till n
 
 [GemLite: Fused low-bit matrix multiplication](https://github.com/mobiusml/gemlite)
 
+## Special operations
+[EquiTriton for equivariant NN by IntelLabs](https://github.com/IntelLabs/EquiTriton)
+
 ## Benchmark
 [TritonBench by PyTorch](https://github.com/pytorch-labs/tritonbench)
 
