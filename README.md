@@ -46,6 +46,8 @@ Collection of kernels written in Triton language (didn't seem to be a lot till n
 [GemLite: Fused low-bit matrix multiplication](https://github.com/mobiusml/gemlite)
 
 ## Communication
+[symm-mem-recipes](https://github.com/yifuwang/symm-mem-recipes)
+
 [tccl](https://github.com/cchan/tccl)
 
 ## Special operations
