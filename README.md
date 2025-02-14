@@ -20,6 +20,8 @@ Collection of kernels written in Triton language (didn't seem to be a lot till n
 
 [scattermoe: Sparse Mixture-of-Experts](https://github.com/shawntan/scattermoe)
 
+[Fused moe from vLLM](https://github.com/vllm-project/vllm/blob/main/vllm/model_executor/layers/fused_moe/fused_moe.py)
+
 ## Transformer
 [Liger Kernel: Efficient Triton Kernels for LLM Training](https://github.com/linkedin/Liger-Kernel)
 
