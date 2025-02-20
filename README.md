@@ -52,6 +52,9 @@ Collection of kernels written in Triton language (didn't seem to be a lot till n
 
 [tccl](https://github.com/cchan/tccl)
 
+## Quantization
+[Quantization kernels by bitsandbytes](https://github.com/bitsandbytes-foundation/bitsandbytes/tree/main/bitsandbytes/triton)
+
 ## Special operations
 [EquiTriton for equivariant NN by IntelLabs](https://github.com/IntelLabs/EquiTriton)
 
