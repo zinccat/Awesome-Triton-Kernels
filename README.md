@@ -63,3 +63,6 @@ Collection of kernels written in Triton language (didn't seem to be a lot till n
 
 ## Integrations
 [JAX-Triton](https://github.com/jax-ml/jax-triton)
+
+## Others
+[Triton-distributed](https://github.com/ByteDance-Seed/Triton-distributed)
