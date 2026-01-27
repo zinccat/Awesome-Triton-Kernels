@@ -39,6 +39,8 @@ Collection of kernels written in Triton language (didn't seem to be a lot till n
 
 [FlagAttention, memory-efficient attention kernels](https://github.com/FlagOpen/FlagAttention)
 
+[ScatterMoE](https://github.com/shawntan/scattermoe)
+
 ## Activations
 [Activation functions by dogukantai](https://github.com/dogukantai/triton-activations)
 
